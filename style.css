@@ -1,0 +1,56 @@
+/* h3 {
+    color: blue
+} */
+
+body {
+    background-color: gray;
+}
+
+h3 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
+
+h6 {
+    text-align: left;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+.container {
+    background-color: white;
+}
+
+.container-fluid {
+    background-color: white;
+}
+
+#store_icon {
+    width: 100%;
+}
+
+#store_logo {
+    margin-bottom: 30px;
+}
+
+#title_itens{
+    margin-bottom: 30px;
+}
+
+#footer{
+    color: white;
+    padding-top: 50px;
+    background-color: darkgray;
+}
+
+/* #title_detail{
+    color: white;
+} */
